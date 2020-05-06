@@ -1,0 +1,13 @@
+"The FBI cannot unlock 13% of the password-protected cellphones it has seized as evidence in the past six months, a top bureau official told a House panel Tuesday.
+About 30% of the 3,000-plus phones that the FBI has seized since Oct. 1 require passwords to open, said Amy Hess, executive assistant director of the FBI's science and technology branch. The FBI was able to unlock most of those phones, but the number that they can't get into is growing as tech companies build devices with stronger data encryption, Hess said. She also said passwords are becoming longer and more difficult to guess, even with special computer programs designed to crack them.
+\"Clearly, that presents us with a challenge,\" Hess told members of the House Energy and Commerce Committee, which brought in law enforcement officials and tech experts to testify about the pros and cons of \"end-to-end\" encryption, which is designed so that only users can unlock it.
+Congress is struggling to decide what legislation -- if any -- it should pass on encryption.
+Senate Intelligence Committee Chairman Richard Burr, R-N.C., and Vice Chairwoman Dianne Feinstein, D-Calif., recently unveiled a draft bill that would effectively bar end-to-end encryption by requiring tech companies to retain a way to unlock their customers' smartphones to comply with court orders to turn over information to federal agents and local police.
+Law enforcement officials say that such a law is needed to keep terrorists and criminals from hiding plots and evidence from investigators armed with court orders. Silicon Valley has come out strongly against the bill, saying it will make Americans more vulnerable to cyber criminals.
+Apple's general counsel, Bruce Sewell, testified Tuesday that the company works closely with the FBI to help solve crimes but does not believe that weakening encryption is the answer.
+\"We feel strongly that Americans will be better off if we can offer the very best protection for their digital lives,\" Sewell said.
+The encryption debate came to a head this year when the FBI went to court to try to force Apple to unlock the iPhone of one of the dead terrorists who killed 14 people and wounded 22 others in an attack in San Bernardino in December.
+The FBI dropped its legal battle with Apple after a third party helped agents unlock the phone. But the fight is far from over.
+Credit: Erin Kelly, USA TODAY
+Word count: 417
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

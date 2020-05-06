@@ -1,0 +1,22 @@
+"Bill Gates has weighed in again on the FBI vs. Apple case -- plus his thoughts on Michael Bloomberg and the presidential race, virtual reality, and more ominously, on the rapid ascent of intelligent robots and the threat of nuclear terrorism.
+Microsoft co-founder Gates, in his fourth \"Ask Me Anything\" chat on Reddit on Tuesday, suggested Apple and the U.S. government could strike a balance \"between government being able to know things in some cases and having safeguards to make sure those powers are confined to appropriate cases.\"
+Gates created a minor furor a few weeks ago after the Financial Times quoted him as downplaying Apple's concerns over the FBI's request it create software to override encryption on an iPhone used by one of the San Bernardino killers.
+He later said his remarks were mischaracterized. Almost every major tech company has been party to amicus brief filings on Apple's behalf, including Microsoft. Lawyers have argued creation of unlock software could put in jeopardy data of millions of consumers.
+In the online forum's Q&A, Gates, 60, again showed some sympathy with the government's viewpoint. \"What if we had never had wiretapping?\" he asked. But at the same time, he added that \"very few people think giving the government carte blanche without safeguards makes sense.\"
+Gates covered a range of topics in his online AMA discussion, including mundane personal topics such as his love of sushi and how an obsession with reading often keeps him up too late. Among the other topics:
+Biggest fear
+Asked what keeps him up at night, Gates was darkly blunt: \"The problem of how we prevent a small group of terrorists using nuclear or biological means to kill millions is something I worry about. If Government does their best work they have a good chance of detecting it and stopping it but I don't think it is getting enough attention and I know I can't solve it.\"
+Robots
+Gates clearly was not concerned that the coming age of robots would bode ill for humans -- although admittedly his conclusion had spooky overtones.
+Wrote Gates: \"I think robots that have vision and manipulation as good as humans is a huge milestone that will happen in the next decade and is being underestimated.\"
+Virtual Reality
+Gates cast his support for Microsoft CEO Satya Nadella's decision to pursue an augmented reality device, HoloLens, which unlike virtual reality allows the user to see the real world as well as overlaid images.
+\"VR is the extreme case of AR when nothing from the real world gets mixed in,\" Gates wrote. \"It can be tricky if you are walking around that you might run into things. Systems that allow you to see the real world \"seem better than pure VR.\"
+Politics
+Gates also obliquely shed light on his political views. While rejecting an offer to run for president, noting that his job helping guide the Bill and Melinda Gates Foundation keeps him plenty busy, he did applaud Michael Bloomberg's recent decision not to run for office as an Independent out of concern that such a bid might split the Republican vote.
+\"I like my current job at the Foundation better than I would being President,\" Gates wrote. \"Also I wouldn't be good at doing what you need to do to get elected. I thought Michael Bloomberg was thoughtful about why it didn't make sense for him to try and run even though he is a great executive.\"
+Credit: Marco della Cava, @marcodellacava, USA TODAY
+Illustration
+photo Seth Wenig, AP
+Word count: 622
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

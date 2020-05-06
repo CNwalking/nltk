@@ -1,0 +1,17 @@
+"The cybersecurity industry came out swinging Tuesday in favor of Apple in its fight against the FBI's demand that it build a backdoor into an iPhone operating system.
+\"The path to hell starts at the backdoor, and we need to make sure that encryption technology remains strong,\" Microsoft President Brad Smith told a packed ballroom as the RSA computer security conference began here.
+More than 40,000 people from across the globe are attending RSA this week, a record. The issue of Apple and the FBI featured in almost every speaker's remarks during the opening plenaries.
+RSA President Amit Yoran began the barrage by saying that weakening encryption is solely for the ease and convenience of law enforcement for pursuing petty criminals.
+\"No credible terrorists or nation states would ever use technology that is knowingly weakened. However, if we weaken our encryption, you can sure bet that the bad guys will use that and exploit it against us,\" he said. Such policies will hurt U.S. economic interests and unconscionably undermine those working to protect the digital environment, he said.
+His words were being heard not just by cryptographers, computer security companies and programmers but also by Michael Rogers, director of the National Security Agency, U.S. Secretary of Defense Ashton Carter, U.S. Attorney General Loretta Lynch, members of Congress and national cyber security czars from around the world, he told the audience. All were planning to attend the conference.
+That attention wasn't license to go on the attack. \"We need to be respectful, but we also must make sure that our voices are heard loud and clear,\" he said.
+The U.S. government realizes how important the field is.
+\"Cyber is the new black. Everyone cares about it. Every government cares about it,\" U.S. State Department Coordinator for Cyber Issues Chris Painter said. He won an excellence in public policy award at RSA.
+Opposing the FBI's request doesn't mean technology companies don't realize they play a crucial role in security and law enforcement work, Smith said.
+After the Paris attacks in November, Microsoft received 14 requests from law enforcement seeking information about terrorist suspects at large in France and Belgium, Smith said. Once the company confirmed they were lawful, the average response time to get the information to law enforcement was 30 minutes, he said. But security doesn't mean allowing unlawful requests.
+\"We also need to stand up for customers,\" he said. In the end, \"there is no such thing as national security without cyber security. We cannot keep people safe in the real world if we cannot keep people safe on the Internet,\" he said.
+Credit: Elizabeth Weise, @eweise, USA TODAY
+Illustration
+photo Microsoft
+Word count: 473
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

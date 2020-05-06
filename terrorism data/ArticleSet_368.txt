@@ -1,0 +1,13 @@
+"Microsoft has sued the Justice Department in a fresh effort to prevent the government from rifling through users' personal emails or documents without their knowledge.
+\"We believe that with rare exceptions, consumers and businesses have a right to know when the government accesses their emails or records,\" Microsoft President and chief legal officer Brad Smith wrote in a blog post. \"Yet it's becoming routine for the U.S. government to issue orders that require email providers to keep these types of legal demands secret. We believe that this goes too far, and we are asking the courts to address the situation.\"
+The filing marks yet another high-profile skirmish between the government and a major technology company. Apple has pushed back against government demands that it help the FBI undermine its encryption and break into its iPhones. Smith last month publicly supported Apple's refusal to assist the government.
+Microsoft has mounted a vigorous legal front over customer privacy, taking on the government for the past three years. This is the fourth lawsuit Microsoft has filed, including a challenge to a U.S. search warrant for customer emails in Ireland.
+The lawsuit filed Thursday in federal court in Seattle questions the legitimacy of the government's demand for secrecy in all cases. Justice spokeswoman Emily Pierce said federal authorities are \"reviewing\" the filing and declined to further comment.
+Requests from the FBI and other law enforcement agencies for access to users' personal information routinely flood tech companies. Law enforcement says such requests are routine and necessary to fight crime and terrorism.
+\"In the cyber world, one second it's there, the next second, it's gone,\" said Donald Mihalek, executive vice president of the FLEOA Foundation (Federal Law Enforcement Officers Association).
+Contributing: Kevin McCoy and Kevin Johnson
+Credit: Jessica Guynn, @jguynn, USA TODAY
+Illustration
+photo David Ramos, Getty Images
+Word count: 329
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

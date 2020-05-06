@@ -1,0 +1,24 @@
+"Eight months after veteran broadcast journalist Ted Koppel published a book predicting a devastating cyberattack on the U.S. power grid, leaders of the utility industry are sounding off over what they say is an exaggerated claim.
+\"We're speaking out on it now because we think there is an important story to tell,\" Scott Aaronson, the managing director for cyber and infrastructure security at the Edison Electric Institute, said last week at a briefing for reporters. \"If it's only going to be the movie-script scenarios, then I can understand why customers might lose confidence.\"
+What Aaronson and others in the utility industry are taking issue with is a warning by Koppel in his bestselling book, Lights Out: A Cyberattack, A Nation Unprepared, Surviving the Aftermath.
+According to Koppel, who anchored the ABC news program Nightline from 1980 to 2005, the U.S. is likely to eventually suffer a cyberattack on its grid that could leave millions of Americans in the dark, short of water and food, and generally desperate for months.
+The risk is considerable, Koppel claims, because the U.S. government and the utility industry are ill prepared to fend off such an assault by foreign adversaries and to help the nation recover from it.
+Not so, Aaronson told reporters.
+\"Part of what we want to do is interject a little bit of sanity and engineering and thoughtfulness into what can quickly devolve into a bit of a hysterical discussion,\" he said at the Washington headquarters of EEI, the trade association for investor-owned electric utilities.
+As he did at recent House and Senate hearings on cybersecurity, Aaronson ticked off a number of steps taken by utilities and the government to address the threat, including standards requiring stepped-up protective measures and carrying penalties of up to $1 million per violation per day.
+Moreover, utilities are increasingly coordinating to share information and expertise and to test their preparedness, including a drill conducted last fall by the industry's North American Electric Reliability Corporation, in which 4,400 participants from the industry and governments in the U.S., Canada and Mexico simulated coordinated cyber and physical attacks on the grid.
+In the event of an incursion that disables electric infrastructure, power providers are expanding programs to share transformers and other equipment and replace damaged equipment relatively quickly, Aaronson said.
+\"I disagree with the premise that we would be in a situation where we would have to deal with a months-long outage that would require people to shelter in place,\" he said.
+As a sign of that resiliency, Aaronson recalled an attack on Pacific Gas & Electric's Metcalf substation south of San Jose in 2013 by unidentified snipers. The attack left 17 of the facility's 21 transformers destroyed and caused $15 million in damage.
+\"The lights didn't even blink in San Francisco and Silicon Valley,\" he said, adding that the substation was back in service in just over a month. Nevertheless, Koppel remains unpersuaded by the industry's criticism of his book.
+\"It is surely only a matter of time before a terrorist group, unrestrained by any geopolitical interests, acquires the capability to attack one of our power grids,\" he testified at a Senate hearing in May where Aaronson also appeared.
+There's no dispute in the industry or the government that hackers want to disrupt power supplies and cause havoc in the U.S. In fact, the National Security Agency has acknowledged that \"cyber intrusions\" on control systems for the grid have increased, though none has caused a blackout.
+But what Aaronson and his colleagues in the utility sector are trying to convey more now than before is that while there will always be room for improvement in addressing the risk, it isn't going unattended.
+\"You've got to be a little sensitive about how much you talk about it publicly,\" said Philip Moeller, EEI's senior vice president of energy delivery and a former member of the Federal Energy Regulatory Commission, who joined Aaronson at the press briefing.
+\"Particularly in the aftermath of Metcalf, we didn't want copycat attacks, which are much more likely to happen once it's in the headlines. But just because we don't talk about it doesn't mean a lot isn't being done.\"
+Bill Loveless is a veteran energy journalist and podcast host in Washington. He is the former anchor of the TV program \"Platts Energy Week.\"
+Credit: Bill Loveless, @bill_loveless, Special for USA TODAY
+Illustration
+photo Jeff J. Mitchell, Getty Images
+Word count: 771
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

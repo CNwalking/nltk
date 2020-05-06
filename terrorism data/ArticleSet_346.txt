@@ -1,0 +1,13 @@
+"The Justice Department withdrew its legal action against Apple on Monday, confirming that an outside method to bypass the locking function of a San Bernardino terrorist's phone has proved successful.
+The method brought to the FBI this month by an unidentified entity allows investigators to crack the security function without erasing contents of the iPhone used by Syed Farook, who with his wife, Tashfeen Malik, carried out a mass shooting in December that left 14 dead.
+\"The government has now successfully accessed the data stored on Farook's iPhone and therefore no longer requires the assistance from Apple Inc.,\" Justice lawyers said in a two-page filing in a California federal magistrate's court.
+Justice spokeswoman Melanie Newman said the FBI is reviewing the contents of the phone, \"consistent with standard investigatory procedures.\"
+\"We will continue to pursue all available options for this mission, including seeking the cooperation of manufacturers and relying upon the creativity of both the public and private sectors,\" Newman said.
+Apple had no immediate comment. Justice officials declined to comment on whether the technique used to unlock the phone would be applied to other encrypted devices.
+Authorities also refused comment on whether the method would be shared with Apple.
+Monday's action followed six weeks of building tensions. The FBI insisted for weeks that only Apple could crack the contents of Farook's iPhone.
+Apple said such an action amounted to a digital \"backdoor\" that could undermine the privacy of consumers -- a stance supported by Google, Facebook, Microsoft and other tech giants.
+The foes were poised to face off in a courtroom in Riverside, Calif., last week before the Justice Department abruptly asked for a postponement.
+Credit: Kevin Johnson, and Jon Swartz, USA TODAY
+Word count: 304
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

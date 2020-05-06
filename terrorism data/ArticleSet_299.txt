@@ -1,0 +1,21 @@
+"FBI Director James Comey said Tuesday that Congress must decide whether it wants Apple and other tech companies to have the power to effectively bar law enforcement from obtaining evidence of crime and terrorism from encrypted smartphones and other electronic devices.
+\"The core question is this: Once all of the requirements and safeguards of the laws and the Constitution have been met, are we comfortable with technical design decisions that result in barriers to obtaining evidence of a crime?\" Comey asked the House Judiciary Committee.
+Comey said the government is not trying to expand its surveillance power, but he is concerned about the emergence of \"warrant-proof spaces\" where critical information cannot be found by law enforcement. \"Rather we are asking to ensure that we can continue to obtain electronic information and evidence pursuant to the legal authority that Congress has provided us to keep America safe,\" he said.
+Comey testified at a hearing in which the FBI faced off with Apple for the first time since the federal government went to court to try to force the tech giant to unlock a terrorist's encrypted iPhone.
+Comey and Apple's senior vice president and general counsel, Bruce Sewell, were witnesses at a Judiciary Committee hearing titled \"The Encryption Tightrope: Balancing Americans' Security and Privacy.\"
+The difficulty of finding that balance has been underscored by the legal battle between the FBI and Apple over whether the government can force the company to create software to unlock the iPhone of a dead terrorist who killed 14 people in San Bernardino, Calif., in December.
+Comey said the FBI's request would only affect the iPhone of terrorist Syed Farook, who was killed along with his wife in a shootout with police.
+But Apple warned Tuesday that writing new code to unlock Farook's phone will create a backdoor into the encrypted iPhones of millions of consumers, making the devices vulnerable to hackers, cyber criminals and government surveillance.
+\"Do we want to put a limit on the technology that protects our data, and therefore our privacy and our safety, in the face of increasingly sophisticated cyber attacks?\" Sewell testified.
+A federal magistrate ordered Apple last month to cooperate with the FBI to unlook Farook's phone. Federal agents believe the phone could contain answers about whether Farook and his wife worked with others to plot their attack.
+Apple filed a motion last Thursday to dismiss the government's request, charging that it is in conflict with Americans' constitutional rights to free speech and to avoid self-incrimination. Google, Facebook, Twitter and Microsoft are among the tech companies supporting Apple.
+As the dispute plays out in court, members of Congress are trying to decide what they should do legislatively to try to resolve the encryption debate.
+\"Americans have a right to strong privacy protections, and Congress should fully examine the issue to be sure those are in place while finding ways to help law enforcement fight crime and keep us safe,\" Judiciary Committee Chairman Bob Goodlatte, R-Va., and Rep. John Conyers of Michigan, the panel's senior Democrat, said in a joint statement.
+Lawmakers are proposing two solutions to the dilemma.
+House Homeland Security Committee Chairman Michael McCaul, R-Texas, and Sen. Mark Warner, D-Va., introduced a bill Monday to create a national commission on digital security.
+Taking a different approach, Sen. Dianne Feinstein, D-Calif., and Senate Intelligence Committee Chairman Richard Burr, R-N.C., plan to introduce legislation to require companies to provide encrypted data to the government if law enforcement officials have a court order.
+Credit: Erin Kelly, USA TODAY
+Illustration
+photo Drew Angerer, Getty Images
+Word count: 627
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

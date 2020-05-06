@@ -1,0 +1,16 @@
+"On Monday the FBI announced it was withdrawing its legal attempt to force Apple to aid it in unlocking the iPhone that had been used by San Bernardino terrorist Syed Rizwan Farook. The agency said it had found another way to get at the phone's data.
+The immediate question for many users is: Are iPhones now hackable? The immediate answer is: We don't know.
+The FBI has not shared what methods it was using to attempt to get into the phone, what method finally worked or even the name of the \"outside party\" that came forward with the method last week. It's only disclosed what method it didn't use: It didn't try making a digital copy of the iPhone's chips, FBI Director James Comey said last week.
+Apple had no comment for this story.
+Without the FBI's information, it's impossible to know what the security vulnerability the agency found is, said Jonathan Zdziarski, an iOS forensic expert and author of a book on how to both hack and secure Apple devices.
+Given that, it's difficult to assess the potential security issues for other iPhones.
+\"If a software method was used (as have been successfully over the years), then all bets are off,\" Zdziarski said via email.
+If the FBI was using physical methods to slice open and read the contents of the chip containing the phone's encryption key -- a highly expensive, time-consuming and potentially destructive method -- it's unlikely the world's phones are suddenly any more vulnerable than they were.
+It's also possible that the phone Farook used, an iPhone 5c, is more easily broken into than the iPhone 6 series.
+While the FBI is under no obligation to disclose how it got into the phone, there is a framework under which it could do so, said Andrew Crocker, a staff lawyer with the Electronic Frontier Foundation, a San Francisco-based digital liberties group.
+The U.S. government has a policy of disclosing computer security vulnerabilities that it has discovered, or that have been made known to it, in most cases, he said. Called the Vulnerabilities Equities Process, it requires law enforcement and intelligence agencies to weigh the positives and negatives of such disclosures.
+Credit: Elizabeth Weise, USA TODAY
+Illustration
+photo Paul Sakuma, AP
+Word count: 403
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

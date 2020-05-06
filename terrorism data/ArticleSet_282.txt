@@ -1,0 +1,17 @@
+"Congress is moving to protect Americans' emails from government snooping while also urging federal agents to keep closer tabs on social media to check for possible terrorist communication.
+The separate efforts underscore the pressure that lawmakers feel to simultaneously boost Americans' electronic privacy and stop terrorist groups from recruiting followers or plotting an attack online.
+In March, a key House panel is set to take a big step toward updating a 30-year-old electronic privacy law that allows government agents to read Americans' emails without a warrant if the emails are at least 6 months old. The 1986 Electronic Communications Privacy Act considers old emails to be \"abandoned\" and allows government investigators to peruse them at will.
+House Judiciary Committee Chairman Bob Goodlatte, R-Va.., has promised a vote on the bipartisan Email Privacy Act, which would update the law to require government agents to get a warrant before searching anyone's emails, regardless of when the mail was sent or whether it was ever opened. More than 300 of the 435 House members have signed on as co-sponsors.
+\"As a result of Congress's failure to keep pace with technology, every American is at risk of having their emails warrantlessly searched by government agencies,\" said Rep. Jared Polis, D-Colo., lead sponsor of the bill with Rep. Kevin Yoder, R-Kan. \"I'm thrilled we can finally update this archaic law and ensure that Americans' Fourth Amendment rights are protected.\"
+The Senate Judiciary Committee has held a hearing on similar legislation but has not scheduled a vote.
+\"This is a very important bill, and it should easily pass the House,\" said Mark Jaycox of the Electronic Frontier Foundation, which supports the legislation. \"The big question is whether the Senate can get it done this year before time runs out and we have to start all over again in the next Congress.\"
+While civil liberties advocates are encouraged by the House push to protect Americans' emails, they are keeping a close eye on separate efforts by lawmakers to increase surveillance of social media.
+Earlier this month, the Senate Homeland Security and Governmental Affairs Committee approved the bipartisan Combat Terrorist Use of Social Media Act, which requires President Obama to develop a comprehensive strategy to counter terrorists' use of social media. The Obama administration has been promising such a strategy since late 2011.
+The Islamic State has been especially effective at using Twitter to recruit followers in the U.S., according to the FBI.
+\"ISIS is growing, and the threat of homegrown terrorism is real,\" said Sen. Ron Johnson, R-Wis., homeland security chairman and a lead sponsor of the bill. The legislation has been introduced in the House by Rep. Ted Poe, R-Texas.
+Sen. Dianne Feinstein, D-Calif., a co-sponsor, said the bill doesn't force tech companies to take any additional action to discover terrorist activity, but requires them to report any activity they come across to law enforcement officials.
+Jaycox said there are constitutional problems with relying on tech companies to decide what is or isn't \"terrorist speech\" as they determine what information to turn over to law enforcement agencies.
+\"If someone uses the word ISIS in a tweet,\" he said, \"are they a terrorist?\"
+Credit: Erin Kelly, USA TODAY
+Word count: 555
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

@@ -1,0 +1,14 @@
+"The American Civil Liberties Union kicked off what is expected to be a string of amicus briefs in federal court to support Apple in the tech company's fight against a court order to unlock an encrypted iPhone used by one of the San Bernardino shooters.
+In an amicus brief to be filed Wednesday, the ACLU has called the case -- in which the FBI wants Apple to help it gain access to the iPhone 5c used by Syed Rizwan Farook, who, along with his wife is suspected of killing 14 in the Dec. 2 terror assault -- unlawful and unconstitutional.
+\"This case concerns an unprecedented law-enforcement effort to conscript an American technology company into creating software designed to weaken the security of its own devices -- an effort that, if successful, would set precedent implicating the security and privacy of hundreds of millions of Americans,\" according to a statement from the ACLU.
+Apple is fighting a Feb. 16 order from a federal magistrate in California that the company must help the FBI try to get into Farook's iPhone by disabling a feature that would lock investigators out if they made 10 unsuccessful tries to determine the correct password. Late Tuesday, Apple filed an appeal against the order.
+A slew of companies are expected to support Apple. Google, Facebook and Twitter are part of a coalition expected to file unsolicited amicus briefs on behalf of Apple. The deadline to file such documents is Thursday. The Electronic Frontier Foundation and Amnesty International also say they'll support Apple.
+The ACLU argues in the brief that such a requirement would have far-reaching consequences that would undermine the public's right to privacy.
+\"If the government prevails, then this case will be the first of many requiring companies to degrade the security and to undermine the trust in their products so essential to privacy in the digital age,\" it writes.
+In a similar case in Brooklyn, where a judge ruled in favor of Apple on Monday, the judge declined amicus briefs from the ACLU, New York Civil Liberties Union and representatives of the Stanford Center for Internet and Society that backed Apple.
+Contributing: Kevin McCoy in New York
+Credit: Mike Snider and Jon Swartz, @MikeSnider, @jswartz, USA TODAY
+Illustration
+photo SHAWN THEW, EPA
+Word count: 405
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

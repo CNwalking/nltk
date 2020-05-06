@@ -1,0 +1,22 @@
+"An Israeli digital forensics firm that's had a history of working with the FBI was thrust into the international spotlight Wednesday as hackers and journalists tried to figure out who was getting close to breaking into an encrypted iPhone -- without Apple's help.
+Yedioth Ahronoth reported that Cellebrite, a company that specializes in extracting information from cellphones, was the mysterious \"outside party\" that came forward and offered to help the FBI gain access to an iPhone used by one of the San Bernardino, Calif., killers.
+The potential for this hack enabled the Department of Justice to ask for an eleventh-hour postponement in its hearing over a court order, fought by Apple, that the iPhone creator write a software override to the terrorist's phone.
+Infamous cybersecurity pioneer John McAfee also claimed Cellebrite was assisting the FBI, though he declined to reveal how he found out about the arrangement.
+Within Cellebrite's mobile forensics division, it has developed a mobile-extraction device, a \"very sophisticated\" product, McAfee told USA TODAY. The product is tantamount to spyware, said McAfee, founder of that namesake security firm and more recently known for escapades after he sold that firm, including his time on the lam related to a Belize murder investigation.
+Cellebrite was unable to provide a comment because of the ongoing investigation, the company said in a statement to USA TODAY. The FBI declined to comment on the report.
+The company, based in Petah Tikva, a suburb of Tel Aviv, has an affiliate in Parsippany, N.J., and affiliates in Europe and Asia.
+It has a history of working with the FBI. In 2013, the FBI purchased two kits for extracting data from cellphones from Cellebrite. According to the procurement documents, the Cellebrite system can \"quickly extract phonebook, pictures, videos, SMS messages, call histories\" and deleted histories for rapid analysis.
+Cellebrite on its website says it's able to get past the passcode on iPhones running iOS 8, the operating system that Apple says carried an encryption so strong it couldn't unlock it, even for police. It's earlier than the version that ran on the iPhone 5c used by San Bernardino gunman Syed Rizwan Farook, however.
+As the day wore on, analysts and other media outlets poked holes in the Cellebrite theory.
+Daniel Kahn Gillmor, a staff technologist with the American Civil Liberties Union who had offered his own theory on how the iPhone could be hacked without Apple, said: \"The main takeaway here is that the FBI's case has never been about this one phone, or about plain dealing with the public about what it wants. They've been trying to use a case that has emotional resonance to establish dangerous legal precedent that would in effect grant them significant new powers,\" Gillmor said.
+That notion, that the FBI and Justice Department were trying to use San Bernardino case as a toehold to force technology companies to build so-called backdoors around their encryption, is one that gained traction in the weeks after the Feb. 16 court order, as more tech firms and privacy groups rallied behind Apple.
+But the U.S. government has maintained it's not trying for a reach beyond this one case.
+In a letter to The Wall Street Journal on Wednesday, FBI Director James Comey wrote that the newspaper's editorial claiming it \"lied\" about the agency's ability to access the iPhone was wrong.
+\"Lots of folks came to us with ideas. It looks like one of those ideas may work, and that is a very good thing, because the San Bernardino case was not about trying to send a message or set a precedent; it was and is about fully investigating a terrorist attack,\" Comey wrote.
+Nonetheless, the ability for any firm -- Cellebrite or not -- to hack into an individual iPhone has deep ramifications for this high-profile dispute.
+The case is seen as a turning point for law enforcement authorities, which have multiple suits against Apple over data locked on encrypted iPhones, and the technology firms that are intent on building ever-more sophisticated encryption into their devices.
+Credit: Elizabeth Weise, @eweise, USA TODAY
+Illustration
+photo Cellebrite
+Word count: 717
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

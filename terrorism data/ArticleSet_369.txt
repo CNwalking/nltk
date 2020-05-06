@@ -1,0 +1,17 @@
+"In its quest to build connected and self-driving cars, the auto industry faces a daunting task national security experts say is a must: Design a car that's terrorist-proof -- or at least try.
+With 220 million Internet-connected cars likely to be on the roads within five years, a national security expert visited Detroit this week and urged automakers to be mindful of the growing cyber-security threats posed by terrorists, information crooks and spies who could potentially hack into wired vehicles and cause mayhem of all sorts.
+While there are no known cases of terrorists hacking a connected car, the Department of Justice official stressed that automakers need to try to stay one step ahead of any potential hackers and ask:
+\"'What are the bad buys thinking?' We've seen them be creative before,\" said John Carlin, assistant attorney general for national security, who met with auto executives and law enforcement personnel at Cobo Center at a presentation titled, \"Emerging National Security Cyber Threats and Their Implications for the C-Suite.\"
+Carlin reminded the audience about last year's intentional hacking of a sport-utility vehicle by security researchers, who hijacked a Jeep Cherokee over the Internet. They managed to turn the steering wheel, disable the brakes and shut down the engine -- among other things -- triggering the eventual recall of nearly 1.5 million vehicles.
+\"It doesn't take much imagination to see how similar vulnerabilities could be used against us by our adversaries to bring about horrific results,\" Carlin said.
+Carlin spoke on national security cyber threats and economic espionage at the opening management program of the SAE 2016 World Congress. He addressed the growing threat posed by sophisticated computer intrusions to the transportation sector and the economy at large, as well as the role the government and private sector must play in protecting companies before, during and after a serious hack.
+Carlin stressed that his reason for visiting Detroit was not to raise panic or stir fear but to encourage automakers to assess the security risks associated with connected cars.
+Carlin noted how the auto industry has taken technology to a new level, making cars that can be opened by fingerprints, driven by themselves and shut down through the push of a button from anywhere. Connected cars in particular will soon hit the market by storm.
+Carlin cited one estimate that shows by 2020, 75% of new cars shipped will have Internet connectivity. There could be 220 million so-called connected cars on the road by then, each with more than 200 sensors. These cars will allow drivers to stream music, get real-time updates about traffic and weather conditions, he said.
+\"You can easily see how the auto industry makes for a valuable target for hackers of all stripes. You have valuable information and infrastructure that they want,\" Carlin said.
+Contributing: Brent Snavely, Detroit Free Press.
+Credit: Tresa Baldas, @TBaldas, Detroit Free Press
+Illustration
+photo Paul Sancya, AP
+Word count: 515
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

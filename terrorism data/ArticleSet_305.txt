@@ -1,0 +1,19 @@
+"What started as a mano-a-mano conflict between the federal government and Apple over a killer's encrypted iPhone has shifted into a showdown with one of the nation's strongest industries over free speech, consumer privacy and global brands.
+And there's every sign this rift will get deeper before it's patched.
+In a show of unity rarely seen in the tech industry, more than 30 companies -- Google, Facebook, Microsoft, AT&T, Yahoo, Amazon, Twitter, Intel, Cisco Systems and others -- filed amicus briefs in support of Apple in its opposition to cracking an iPhone linked to the San Bernardino killings. It is a formidable front in an industry often fractured by internecine product wars.
+When, for instance, is the last time Apple, Google, Amazon and Facebook were on the same team?
+The newfound unity among nearly every major tech company is a powerful counterbalance to the government, which made conciliatory overtures at the RSA cybersecurity conference in San Francisco this week. Secretary of Defense Ash Carter stressed the importance of a free and open Internet in a speech. Alphabet Executive Chairman Eric Schmidt was named to head a new Pentagon advisory board to kickstart Silicon Valley innovation in the U.S. military.
+\"I'm not a believer in backdoors or a single technical approach to what is a complex question,\" Carter told a mostly IT audience. That was a softer tone the one taken by the FBI.
+Yet Apple has coaxed/convinced/forced its tech brethren to take an equally hard stance on privacy. The newly formed battle lines could usher in a new era of aggressive policies on privacy by tech companies, which increasingly are dependent on the personal data of their customers for business revenue. The sheer scope of the consequences of the case on privacy, cybersecurity, human rights violations and American companies' ability to compete overseas buttressed Apple's argument, legal experts say.
+\"The FBI's interest in this narrow case overshadows a wealth of other important American interests,\" says Jennifer Granick, director of civil liberties at the Stanford Center for Internet and Society.
+No less an authority than the United Nations' human rights chief, Zeid Ra'ad Al Hussein, on Friday warned the FBI risks \"unlocking a Pandora's Box\" that could help authoritarian governments and jeopardize the security of millions around the globe.
+Such dire warnings could deepen the public's growing concern over the government's efforts to unlock the data on digital devices, particularly in criminal investigations -- a skepticism fomented by Edward Snowden's disclosure of a far-reaching surveillance program by the National Security Agency.
+\"This conflict with the tech industry was inevitable,\" says Bill Snyder, visiting assistant professor at the Syracuse University College of Law. \"If not Apple, someone else would have taken the lead\" in a showdown.
+Perhaps the federal government miscalculated the industry's response when it made its conflict with Apple public. And perhaps the overtures it made this week at a security conference in San Francisco were brushed off by many in the tech community.
+But the U.S. government should not be discounted, by any means, in its pursuit of a weakened iPhone to track down a terrorist act.
+As University of California-Hastings law professor Ahmed Ghappour told USA TODAY, \"The government exposed a weakness in an Apple product (iPhone 5C). Apple is neither addressing privacy or security,\" says David Cowen, a partner at Bessemer Venture Partners who oversees its cybersecurity investments. \"In today's world of daily cyberbreaches, to build a secure system, you need to welcome transparency and address vulnerabilities.\"
+Credit: Jon Swartz, @jswartz, USA TODAY
+Illustration
+photo MICHAEL REYNOLDS, european pressphoto agency
+Word count: 626
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

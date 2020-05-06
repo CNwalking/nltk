@@ -1,0 +1,17 @@
+"Microsoft got an ally in its lawsuit against the Justice Department on Thursday.
+The American Civil Liberties Union has filed a motion to join Microsoft's effort to challenge Justice Department gag orders that prevent the tech company from telling customers when the government has ordered it to turn over data.
+The ACLU is a Microsoft customer. Microsoft filed its lawsuit in April, one of a number of legal challenges the Redmond, Wash., company has mounted against growing law enforcement requests for its cloud-based consumer data.
+\"A basic promise of our Constitution is that the government must notify you at some point when it searches or seizes your private information,\" said Alex Abdo, a senior staff attorney with the ACLU Speech, Privacy and Technology Project. \"Notice serves as a crucial check on executive power, and it has been a regular and constitutionally required feature of searches and seizures since the nation's founding.\"
+Microsoft spokesman David Cuddy said the company \"appreciates the support from the ACLU and many others in the business, legal and policy communities who are concerned about secrecy becoming the norm rather than the exception.\"
+Requests from law enforcement agencies for access to users' personal information routinely flood tech companies that store vast amounts of data in the cloud. Massive data centers run by Microsoft, Amazon and other big tech companies allow businesses and individuals to access email, photos and other content from multiple devices, wherever they are.
+Law enforcement officials say that access to such data is critical to fighting crime and terrorism.
+Using the Electronic Communications Privacy Act, the U.S. government is increasingly targeting such data, according to Microsoft, which says the government has mandated secrecy in 2,576 instances over the past 18 months. People would know if the government went through their filing cabinet or their hard drive but are unaware when their privacy in the cloud is intruded upon, they argue.
+The 1986 law was written before the Web was born and long before Americans started storing so much of their personal communications on the Internet.
+Microsoft alleges the Electronic Communications Privacy Act violates users' Fourth Amendment right that a search be reasonable and Microsoft's First Amendment right to talk to its users.
+\"Notably and even surprisingly, 1,752 of these secrecy orders, or 68% of the total, contained no fixed end date at all. This means that we effectively are prohibited forever from telling our customers that the government has obtained their data,\" Microsoft chief legal officer Brad Smith wrote in an April blog post when the suit was announced.
+Contributing: Jessica Guynn
+Credit: Marco della Cava, @marcodellacava, USA TODAY
+Illustration
+photo Michel Euler, AP
+Word count: 471
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

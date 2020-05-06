@@ -1,0 +1,8 @@
+"A wave of tech companies that include the industry's biggest names filed court statements backing Apple in its battle with the federal government over access to a killer's iPhone.
+Twitter was one of 17 allied tech firms filing a federal court amicus brief Thursday, a group that includes Airbnb, LinkedIn and eBay. AT&T and Intel each did the same, along with the Electronic Frontier Foundation and 46 technologists, researchers and cryptographers.
+A second coalition that grouped 15 mature tech companies with younger start-ups -- including Google, Facebook, Amazon, Cisco, Microsoft, Mozilla, Snapchat, Box, Slack and Yahoo -- also filed in support of Apple, urging the court to exercise caution in applying a legal decision from an era when cellphones and the Internet were unheard of. \"(The government request) is an overreach; it is asking a tech company to undermine years of security,\" Mozilla chief legal officer Denelle Dixon-Thayer told USA TODAY.
+Apple is getting broad tech world support for its refusal to comply with an order from a judge in California who said Apple should help the FBI unlock an iPhone used by one of the killers in the San Bernardino mass shooting in December.
+\"This case isn't simply about letting the FBI pick the lock to a dead terrorist's phone. It's about whether governments can conscript private companies to disable security features built into their devices,\" said Ron Bell, general counsel at Yahoo.
+Contributing: Kevin McCoy in New York and Kevin Johnson in Washington, D.C.
+Word count: 262
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

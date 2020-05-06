@@ -1,0 +1,13 @@
+"Retired four-star general Michael Hayden, the former CIA director who as head of the NSA installed the controversial surveillance program to collect telephone metadata on millions of Americans, says he opposes proposals to force Apple and other tech companies to install \"back doors\" in digital devices to help law enforcement.
+In a court battle over access to information on the iPhone owned by one of the San Bernardino attackers, Hayden says \"the burden of proof is on Apple\" to show that limited cooperation with investigators would open the door to broader privacy invasions. Apple is being asked not to decrypt information on the smartphone but rather to override the operating system so investigators could try an endless series of passwords to unlock it.
+\"In this specific case, I'm trending toward the government, but I've got to tell you in general I oppose the government's effort,\" Hayden said in an interview about his memoir, Playing to the Edge: American Intelligence in the Age of Terror. The FBI \"would like a back door available to American law enforcement in all devices globally. And, frankly, I think on balance that actually harms American safety and security, even though it might make (the FBI's) job a bit easier in some specific circumstances.\"
+Hayden, 70, is the only person ever to head both the super-secret National Security Agency and the Central Intelligence Agency.
+That resume makes his conclusion that privacy concerns should trump security demands on this issue especially powerful.
+A federal District Court judge in California last week ordered Apple to bypass security barriers on the iPhone5c used by Syed Rizwan Farook, who with his wife killed 14 people in December. In a defiant public letter, Apple CEO Tim Cook said the company wouldn't comply.
+The showdown has reinvigorated proposals for Congress to pass a law that would require tech companies to provide a \"back door\" in digital devices so law-enforcement officials could access encrypted information during investigations.
+\"Look, I used to run the NSA, OK?\" Hayden says. \"Please, please, Lord, put back doors in, because that back door will make it easier for me to do what I want to do.
+\"But when you step back and look at the whole question of American security and safety writ large, we are a safer, more secure nation without back doors.\" With them, \"a lot of other people would take advantage of it.\"
+Illustration
+photo USA TODAY
+Word count: 430
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

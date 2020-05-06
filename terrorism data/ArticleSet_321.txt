@@ -1,0 +1,12 @@
+"The government blinked in its fight with Apple over the San Bernardino iPhone.
+But this landmark privacy battle is far from over, legal experts say, especially when public opinion is likely to swing again toward national security after the terrorist attacks in Belgium.
+\"It's another turn in a long road,\" says associate professor Mark Grabowski, who teaches Internet law at Adelphi University in New York. \"Maybe they find out how to unlock the iPhone, but there is a broader goal (accessing data) beyond this case.\"
+The Department of Justice requested late Monday that a U.S. court postpone its hearing with Apple, explaining that it may have found an outside party to help the FBI unlock the seized iPhone of Syed Farook, the San Bernardino shooter who, with another shooter, killed 14 and injured 22 on Dec. 2.
+The act of terrorism in Brussels on Tuesday, which killed dozens of people, could rekindle the government's resolve to push for weakened encryption on smartphones and digital devices, cyber security experts say.
+The FBI \"will use this terrorist attack to advance its case,\" says Avivah Litan, a vice president at market researcher Gartner. \"The public reacts very strongly to these types of incidents and insists the government needs to do what is necessary to get the bad guys.\"
+If encrypted data are an \"element\" in the bombings in Brussels, there will be renewed support for the FBI's argument, says Paul Rosenzweig, a law professor at George Washington University.
+But the events in Belgium could buttress Apple's argument about the importance of avoiding loopholes in its encryption. Security codes, staff changes and other critical infrastructure are stored in the computing cloud and encrypted at most major airports, says Evan Greer, campaign director of Fight for the Future, a non-profit group that supports Apple.
+Contributing: Kevin Johnson in Washington
+Credit: Jon Swartz, USA TODAY
+Word count: 328
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

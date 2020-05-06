@@ -1,0 +1,12 @@
+"Law enforcement officials Thursday threw cold water on two recent theories on how the FBI was attempting to hack into an iPhone used by one of the San Bernardino terrorists but wouldn't name the mysterious \"outside party\" that is trying to help it navigate Apple's built-in passcode encryption.
+FBI Director James Comey, in response to a reporter's question at a briefing, said making a copy of the iPhone's chip in an effort to circumvent the password lockout \"doesn't work.\" Comey wouldn't identify the company that's helping it or discuss details of the technique.
+A widely discussed scenario in the security world, put forward by a staff technologist at the ACLU, has been that the FBI had found a way to remove crucial chips from the iPhone, make digital copies of them and then run multiple passcode attempts against the digital copies, while keeping the phone's software itself untouched.
+That would avoid tripping the self-erase program built into the iPhone, the security hurdle that's at the crux of the U.S. government's legal fight with Apple.
+Law enforcement officials speaking on background debunked another report that had named Israeli forensics firm Cellebrite as the mystery firm helping it break into the phone.
+On Wednesday, the Israeli newspaper Yedioth Ahronoth reported that the company that specializes in extracting information from cellphones was the mysterious \"outside party.\" The FBI had previously bought kits for extracting data from cellphones from Cellebrite.
+The officials, who are not authorized to speak publicly on the matter, declined to identify the outside party.
+On Monday, in a surprise shift in the month-long public dispute between the U.S. government and Apple, the DOJ had asked that a hearing on the case set for Tuesday be canceled. It told the court that an unnamed outside party had come forward with a possible solution to getting into the iPhone that wouldn't require Apple's assistance, and that it would update the court by April 5.
+No matter what, Comey said there needs to be agreement about how to handle the broader privacy-vs-security question. \"We still have to, as a country, resolve this conflict,\" Comey said.
+Credit: Elizabeth Weise, and Kevin Johnson, USA TODAY
+Word count: 379
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

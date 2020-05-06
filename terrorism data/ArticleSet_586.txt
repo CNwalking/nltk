@@ -1,0 +1,12 @@
+"A government directive ordering Yahoo to scan customer emails was issued by the Foreign Intelligence Surveillance Court, requesting that the company essentially sift through incoming email streams for a digital signature associated with a known terror organization, a federal law enforcement official said Wednesday.
+The official, who is not authorized to comment publicly on the matter, said the nature of the order did not require the company to design a program to comply with the request. Rather, the company was able to employ existing tools to execute the request.
+Any information that may have been provided, the official said, would have been limited to material associated with the organization's digital signature.
+The official declined to comment on whether useable information was obtained in the process, which is believed to have ceased. The account, first reported Wednesday by the The New York Times, elaborates on a Reuters report earlier this week, which disclosed Yahoo's unusual cooperation.
+Reuters on Tuesday said former Yahoo employees claimed the company had built a special software program to scan emails for specific information at the request of the National Security Agency or Federal Bureau of Investigation.
+Yahoo on Wednesday said \"The article is misleading. We narrowly interpret every government request for user data to minimize disclosure. The mail scanning described in the article does not exist on our systems.\"
+Yahoo did not respond to a request for comment on the Times story.
+Credit: Mike Snider, @mikesnider, USA TODAY
+Illustration
+photo Yahoo
+Word count: 271
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

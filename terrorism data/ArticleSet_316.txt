@@ -1,0 +1,14 @@
+"Apple Inc. charged Tuesday a court order forcing the tech giant to assist the federal government in unlocking the iPhone of San Bernardino terrorist Syed Farook was based on non-existent authority asserted by the Justice Department.
+\"According to the government, short of kidnapping or breaking an express law, the courts can order private parties to do virtually anything the Justice Department and FBI can dream up,\" Apple lawyers argued in new court documents. \"The Founders would be appalled.\"
+The company rejected the government's previous contention, characterizing the court order as \"modest\" and relating to a \"single iPhone.\"
+\"Instead, this case hinges on a contentious policy issue about how society should weigh what law enforcement officials want against the widespread repercussions and serious risk their demands would create,\" Apple lawyers argued.
+With each new filing in advance of a scheduled March 22 court hearing on the matter, the rhetoric has dramatically escalated while the substance of the dispute largely has never changed: Apple claims the court's order would represent an unprecedented breach of customer privacy, while the government counters that its request is narrow in scope and that national security interests trump whatever privacy claims can be asserted involving access to Farook's phone.
+\"This case arises in a difficult context after a terrible tragedy,\" Apple contends. \"But it is in just such highly-charged and emotional cases that the courts must zealously guard civil liberties and the rule of law and reject government over-reaching.\"
+Apple's new court filing comes less than a week after the Justice Department claimed Apple had \"deliberately raised technological barriers\" between a warrant and the iPhone that authorities believe may contain additional evidence in the December mass shooting that left 14 dead.
+Apple CEO Tim Cook has called the request akin to creating a \"backdoor\" into the iPhone, and the company's lawyers claimed Tuesday in court documents that the government's requested order was \"neither grounded in the common law nor authorized by statute.\"
+Johnson reported from Washington D.C.
+Credit: Kevin Johnson, and Elizabeth Weise, USA TODAY
+Illustration
+photo AFP/Getty Images
+Word count: 370
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

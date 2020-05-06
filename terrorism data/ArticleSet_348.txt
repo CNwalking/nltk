@@ -1,0 +1,13 @@
+"A bipartisan group of lawmakers in Congress is pushing legislation to bar states from enacting their own laws that would require manufacturers to maintain the ability to unlock encrypted smartphones.
+State legislators in California and New York have introduced bills to effectively ban encryption on any smartphone sold in their states. That has prompted members of the U.S. House to offer the ENCRYPT Act, which would stop states from adopting their own encryption laws.
+\"A patchwork of 50 different encryption standards is a recipe for disaster that would create new security vulnerabilities, threaten individual privacy and undermine the competitiveness of American innovators,\" said Rep. Ted Lieu, D-Calif., who is sponsoring the federal bill with Reps. Blake Farenthold, R-Texas; Suzan DelBene, D-Wash.; and Mike Bishop, R-Mich.
+Congress is still trying to figure out what -- if anything -- it wants to do to regulate encryption. The debate has taken on an added urgency since terrorist attacks in Europe and in San Bernardino, Calif., in which terrorists used encrypted cellphones and Apps.
+The FBI and Apple have been locked in a heated legal debate over whether the federal government can force Apple to create software to unlock the iPhone of one of the San Bernardino terrorists. Apple has argued that writing code to unlock the encrypted phone would compromise the privacy of all iPhone users.
+On Monday, the Justice Department withdrew its legal action against Apple to force it to help the FBI unlock a phone after a third party's attempt to bypass locking was successful.
+But the FBI isn't the only law enforcement agency that wants to get into encrypted electronic devices. State and local police across the USA also are trying to access encrypted data to help solve crimes.
+In California, Democratic Assemblyman Jim Cooper, a former captain in the Sacramento County Sheriff's Department, has introduced a bill that would require every smartphone sold or leased in the state beginning in 2017 to be capable of being decrypted by its manufacturer or its operating system provider. Manufacturers or operating system providers who knowingly fail to comply with the law could be fined $2,500 for each phone.
+Cooper said his aim is to ensure that police -- armed with warrants -- can investigate and apprehend criminals who engage in human trafficking.
+A nearly identical bill has been introduced in the New York State Assembly by Democratic Assemblyman Matthew Titone.
+Credit: Erin Kelly, USA TODAY
+Word count: 423
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

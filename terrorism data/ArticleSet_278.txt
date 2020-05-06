@@ -1,0 +1,14 @@
+"Apple has more iPhone legal worries than the new court ruling that ordered the tech giant to help investigators break into the smartphone owned by one of the shooters in December's San Bernardino, Calif., terrorist attack.
+The company faces multiple court cases in which law enforcement investigators have sought Apple's aid in accessing the iPhone data of criminal suspects. The cases include the Brooklyn, N.Y., federal court prosecution of Jun Feng, a defendant who in October pleaded guilty to being part of a conspiracy to possess and distribute methamphetamine.
+\"Apple has received additional requests similar to the one underlying the case before this court,\" company attorney Marc Zwillinger wrote in a Feb. 12 filing to U.S. Magistrate Judge James Orenstein, who is presiding over the Brooklyn case.
+Despite the defendant's guilty plea, Apple joined federal prosecutors in seeking a ruling on the iPhone issue because the company has been told investigators in other cases also will seek Apple's help \"in bypassing the security of other Apple devices in the government's possession,\" Zwillinger wrote.
+Orenstein on Tuesday issued an order asking Apple to provide details, including the court jurisdictions, the types of electronic devices and operating systems at issue and the company's position on the cases. The judge set a March 1 deadline for Apple's sealed response.
+Details of the other cases were not immediately available. However, data compiled by Manhattan District Attorney Cyrus Vance Jr. in New York City demonstrates the high legal stakes that face Apple and U.S. law enforcement. Investigators were unable to execute search warrants for suspects' smartphones in approximately 155 cases to date because the devices run on Apple's iOS8 operating system, Vance said in a Wednesday interview.
+Separately, the Brooklyn case mirrors several elements of the legal standoff in the San Bernardino investigation but with a key difference.
+In the terrorist case, U.S. Magistrate Judge Sheri Pym ruled in favor of the FBI's request for Apple's help to disable a security feature that would wipe out data on the terror shooter's iPhone if investigators made more than 10 attempts to enter the proper password. Apple CEO Tim Cook said the company would challenge the decision.
+In the Brooklyn case, Orenetein has deferred a final ruling pending more information about whether complying with the government's assistance request would prove overly \"burdensome\" for Apple. The company said in an October court filing it \"would be impossible\" for it to extract unencrypted user data from any device running on Apple's iOS8 operating system or higher equivalents.
+Credit: Kevin McCoy, @kmccoynyc, USA TODAY
+Illustration
+photo Justin Sullivan, Getty Images
+Word count: 458
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

@@ -1,0 +1,17 @@
+"The U.S. technology industry is lining up behind Apple over its refusal to help the FBI break into the iPhone used by one of the terrorists in December's San Bernardino massacre -- albeit cautiously.
+Jan Dawson, chief analyst with Jackdaw Research, says statements of public support from major tech firms have been guarded and \"somewhat lukewarm.\"
+Google and Facebook did voice public support for Apple more forcefully and swiftly than Microsoft, Yahoo and Twitter.
+Some may be trying to avoid scrutiny, fearing the same recriminations and loss of trust that followed Edward Snowden's revelations that major tech and telecom companies had secretly given the U.S. government vast amounts of consumer data, said longtime Silicon Valley futurist Paul Saffo.
+\"What took them so long? The longer they waited, the less credit they get. The smart thing was to say not just 'yeah, we support them' but 'hell yeah, we support them,'\" Saffo said.
+The U.S. government went back to court Friday in an attempt to force Apple to comply with a court order directing the company to assist the FBI in unlocking the iPhone used by one of the assailants in the December mass shootings in San Bernardino, Calif., that killed 14 people.
+A federal judge ordered Apple to bypass security functions on the iPhone, igniting a battle between the Obama administration and Apple, with the world's most valuable company declaring it would not comply with the order to hack into the phone.
+Sundar Pichai, CEO of Google, was the first head of a major tech company to side with Apple, saying in a series of tweets Wednesday that \"forcing companies to enable hacking could compromise users' privacy\" and would set a \"troubling precedent.\"
+Facebook followed with more forceful language Thursday, warning of a \"chilling precedent\" and pledging to \"fight aggressively\" against government efforts to \"weaken the security\" of consumer tech products.
+CEO Jack Dorsey tweeted Twitter's support, later on Thursday: \"We stand with @tim_cook and Apple (and thank him for his leadership)!\"
+Microsoft and Yahoo initially referred reporters to written statements from industry trade groups.
+Wednesday, Microsoft's president and chief legal officer Brad Smith tweeted a link to a trade group statement, saying \"essential to have broad public discussion on these important issues.\"
+Late Thursday, Smith tweeted the link again and made a stronger statement: \"In a world where we need to keep both the public safe and privacy rights secure, backdoors take us backwards.\"
+Yahoo's chief information security officer Bob Lord on Friday said on Twitter: \"Ordering a company to hack one targeted system is clearly the first step to ordering them to backdoor them all. #slipperySlope #usersfirst.\"
+Credit: Jessica Guynn, USA TODAY
+Word count: 468
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"

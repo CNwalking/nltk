@@ -1,0 +1,14 @@
+"Apple must help the FBI break into an iPhone belonging to one of the killers in the San Bernardino, Calif., shootings, a federal judge ordered Tuesday.
+Tashfeen Malik and her husband, Syed Rizwan Farook shot and killed 14 people in December. The couple later died in a gun battle with police. The iPhone was recovered from the vehicle in the aftermath of the attack.
+The ruling from U.S. Magistrate Sheri Pym requires Apple to provide the FBI with software that can disable the security feature that erases data from the iPhone after too many unsuccessful attempts to unlock it.
+Apple could not be immediately reached for comment.
+Last week, FBI Director James Comey told a Senate panel that investigators still have not been able to unlock the encrypted cellphone of Farook.
+\"We still have one of those killer's phones that we haven't been able to open,\" Comey told members of the Senate Intelligence Committee during a hearing on threats to the homeland. \"It's been over two months now. We are still working on it.\"
+Comey made the comments in response to questions from senators about how encrypted cellphones and other devices can hinder investigations because they cannot be unlocked, even by the companies that made them.
+The encryption debate, which pits security hawks against privacy advocates, has intensified in the wake of the terrorist attacks in San Bernardino and Paris.
+Intelligence Committee Chairman Richard Burr, R-N.C., is working with Vice Chairman Dianne Feinstein, D-Calif., on a bill that would compel tech companies to provide encrypted data to law enforcement agencies.
+Following Tuesday's ruling, Los Angeles U.S. Attorney Eileen Decker said the move to unlock the phone represented an attempt to \"exhaust every investigative lead in the case.\"
+The Obama administration has held discussions with Silicon Valley companies to press Apple, Facebook and others to do more to prevent terrorists from using the Internet to spread propaganda, incite violence and attract recruits. Companies, sensitive to the fallout from government spying revelations by former National Security Agency contractor Edward Snowden, have been wary of being seen as aiding the government to spy on users.
+Credit: Kevin Johnson, and Jessica Guynn, USA TODAY
+Word count: 381
+(Copyright (c) 2016 USA Today. All Rights Reserved.)"
