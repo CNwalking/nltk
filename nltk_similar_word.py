@@ -2,8 +2,8 @@ import nltk
 nltk.data.path.append("/Users/walking/Project/pythonProject/nltk_data")
 from nltk.corpus import wordnet as wn
 
-set = ['beautiful', 'bad', 'dad', 'close', 'monkey']
-word = 'dog'
+set = ['beautiful', 'bad', 'dad', 'close', 'monkey', 'good']
+word = 'super'
 def get_most_similar(search_word, word_set):
     result = ""
     similarity = 0
