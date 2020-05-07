@@ -13,8 +13,8 @@ def check_words(dict, word):
     # Check synonyms for each word
     for word_exist in dict:
         for same_words_set in wn.synsets(word_exist):
-            for word in same_words_set.lemma_names():
-                if true_word == word:
+            for same_word in same_words_set.lemma_names():
+                if true_word == same_word or same_word == str(word).lower() or same_word == str(word).lower().replace("s", ""):
                     # which means they are the same words
                     dict[word_exist] += 1
                     return dict
@@ -58,9 +58,6 @@ try:
     per_dict = {}
     gpe_dict = {}
     data = {}
-    data["ORGANIZATION"] = org_dict
-    data["GPE"] = gpe_dict
-    data["PERSON"] = per_dict
     times = 1
     entity_sets = get_continuous_chunks(temp)
     print(get_continuous_chunks(temp))
@@ -77,7 +74,11 @@ try:
                     # person name should not be checked
                     per_dict.update({word: times})
                 # print(chunk.label(), ' '.join(c[0] for c in chunk))
-
+    org_dict = sorted(org_dict.items(), key=lambda item: item[1], reverse=True)
+    gpe_dict = sorted(gpe_dict.items(), key=lambda item: item[1], reverse=True)
+    data["ORGANIZATION"] = org_dict
+    data["GPE"] = gpe_dict
+    data["PERSON"] = per_dict
     jsonStr = json.dumps(data)
     print(jsonStr)
 
